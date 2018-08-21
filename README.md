@@ -1,4 +1,4 @@
-# COPA
+# COPA: constrained parafac2 for sparse & large datasets
 The COPA repository provides the code from our CIKM 2018 paper: "copa: constrained parafac2 for sparse & large datasets", 
 By Ardavan Afshar, Ioakeim Perros, Evangelos E. Papalexakis, Elizabeth Searles, Joyce Ho, Jimeng Sun. 
 
